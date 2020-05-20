@@ -23,5 +23,8 @@
   "homepage": "https://github.com/kevin-ivy/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
   }
 }
