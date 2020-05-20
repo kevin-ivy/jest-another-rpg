@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A turn based, command line RPG where a player fights against enemies",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-ivy/jest-another-rpg.git"
+  },
+  "keywords": [
+    "rpg",
+    "fighter",
+    "game"
+  ],
+  "author": "kevin-ivy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-ivy/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/kevin-ivy/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
